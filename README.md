@@ -3,7 +3,7 @@
 Logos officiels de حركة الشبيبة الديمقراطية التقدمية (MJDP).
 
 Lien de base (après activation de GitHub Pages) :
-`https://<abdojami-glitch>.github.io/mjdp-assets/`
+`https://abdojami-glitch.github.io/mjdp-assets/`
 
 ## National (par défaut)
 
